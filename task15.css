@@ -1,0 +1,56 @@
+
+body {
+    background-image:url('banner.webp');
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+.container {
+    background-color:white;
+    padding: 33px;
+    margin-top: 100px;
+    padding-left: 10px;
+    width: 420px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
+h2 {
+    text-align: center;
+    margin-bottom:0px;
+}
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid white;
+    color: grey;
+    
+    border-radius: 30px;
+    
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(32, 31, 31);
+    border-color:rgb(8, 8, 8) ;
+    color: white;}
+.list{
+    text-align: left;
+}
+.signup-form {
+
+    padding: 10px;
+    background-color: white;
+    width:300px;
+    text-align: left;
+}
+.cus-placeholder{
+    background-color:#d4d4d4;
+}
